@@ -14,7 +14,7 @@
 } */
 /* limiting height */
 
-h2, p {
+/* h2, p {
     width: 400px;
     font-size: 90%;
     line-height: 1.2em;
@@ -23,4 +23,51 @@ h2, p {
 h2 {
     color: #0088dd;
     border-bottom: 1px solid #0088dd;
+} */
+/* over flow */
+/* p{
+    max-height: 100px;
+    border: 1px solid red;
+    overflow: hidden;
+} */
+
+/* border width */
+/* p{
+    border: 5px solid red;
+} */
+/* p{
+    border: 2px solid red;
+    padding: 10px 20px 40px;
+} */
+
+/* margin */
+/* p{
+    border: 2px solid red;
+    margin: 50px ;
+} */
+/* change inline block */
+/* li{
+    display: inline;
+} */
+
+/* hiding boxes */
+/* li{
+    display: inline;
+} */
+
+/* border images */
+/* .one{
+    border: 10px solid transparent;
+    border-image: url(./images/connect-the-dots.png) 30 round;
+} */
+
+/* box shadow */
+/* .one{
+    box-shadow: -5px -5px #777777;} 
+} */
+
+/* rounded corners */
+p{
+  width: 200px;
+  border: 2px solid red; 
 }
